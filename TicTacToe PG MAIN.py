@@ -11,7 +11,7 @@ SCREEN_HEIGHT = 1000
 SCREEN = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
 playerX = pygame.image.load(r"C:\Users\John\Desktop\PYTHON\Python 3.8\Projects\Games\Local\In Progress\Tic Tac Toe Pygame\Best version\blueX.gif")
 playerO = pygame.image.load(r"C:\Users\John\Desktop\PYTHON\Python 3.8\Projects\Games\Local\In Progress\Tic Tac Toe Pygame\Best version\blueO.jpg")
-bg = pygame.image.load(r"C:\Users\John\Desktop\PYTHON\Python 3.8\Projects\Games\Local\In Progress\Tic Tac Toe Pygame\Best version\tic tac toe background.png")
+#bg = pygame.image.load(r"C:\Users\John\Desktop\PYTHON\Python 3.8\Projects\Games\Local\In Progress\Tic Tac Toe Pygame\Best version\tic tac toe background.png")
 
 playerX_width = 75
 playerX_height = 75
